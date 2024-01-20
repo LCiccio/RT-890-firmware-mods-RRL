@@ -51,6 +51,13 @@ Menu => DTMF decoder
 Exit => Single/dual VFO display
 ```
 
+### S-Meter Usage
+View S-Meter by holding down the EXIT button. The radio will enter single VFO display
+
+<p float="left">
+<img src="/Images/S-meter.jpeg" height=300 />
+</p>
+
 ### Scanning guide
 Scan list management:
 - This firmware has 8 scanlists.  
