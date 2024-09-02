@@ -1,4 +1,4 @@
-# Radtel RT-890 firmware modded by IU8RRRL
+# Radtel RT-890 firmware modded by IU8RRL
 Firmware modded by IU8RRL forked and modded from https://github.com/OEFW-community/RT-890-custom-firmware
 
 This project is an effort to improve the firmware of the Radtel RT-890 in terms of features and radio performance.
